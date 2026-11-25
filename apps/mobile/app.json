@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Mogu",
+    "slug": "mogu-ai",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.moguai.app"
+    },
+    "plugins": ["expo-router", "expo-sqlite", "expo-font"],
+    "scheme": "mogu",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "platforms": ["ios"]
+  }
+}

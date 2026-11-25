@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.turbo/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+apps/mobile/ios/
+apps/mobile/android/
+*.sqlite*
+*.mogu.zip

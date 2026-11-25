@@ -1,0 +1,4 @@
+{
+  "extends": "@mogu/config/tsconfig.json",
+  "include": ["src"]
+}
